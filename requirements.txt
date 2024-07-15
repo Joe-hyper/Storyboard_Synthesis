@@ -1,0 +1,14 @@
+torch 
+torchvision 
+torchaudio
+tensorflow
+scikit-learn
+opencv-python-headless
+matplotlib
+pytesseract
+segmentation-models-pytorch
+jupyterlab
+pandas
+numpy
+opencv-python
+ultralytics
